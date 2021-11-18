@@ -1,4 +1,4 @@
-# .NET 5 API With Refit & Serilog
+# .NET 5 API with Refit & Serilog
 
 ## Tecchnologies
   * .NET 5 Api
